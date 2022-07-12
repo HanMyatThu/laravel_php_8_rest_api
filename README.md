@@ -21,7 +21,9 @@ If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Lar
 ## Starting the Project
 
 Git Clone the Repo
+
 cd ./laravel_php_8_rest_api
+
 composer install
 
 # Initialize the essential things
