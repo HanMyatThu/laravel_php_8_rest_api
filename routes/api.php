@@ -45,4 +45,4 @@ Route::resource('products', ProductController::class,['only' => ['index','show']
 /**
  * Users
  */
-Route::resource('users',UserController::class, ['except' => ['create','edit']]);
+Route::resource('users',UserController::class, ['except' => ['create','delete']]);
